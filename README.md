@@ -34,6 +34,9 @@ Can you beat your own high score?
 4. Your best score is saved between runs.
 5. Use either **mouse or keyboard** to control your character.
 
+##  How to Download
+Just download the .exe file from the repo and you are good to play 
+
 ## 📣 Credits
 
 - Built with [Godot Engine](https://godotengine.org/)
