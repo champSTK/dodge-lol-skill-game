@@ -39,7 +39,8 @@ Just download the .exe file from the repo and you are good to play
 
 ## 📣 Credits
 
-- Built with [Godot Engine](https://godotengine.org/)
-- Developed by [champSTK]
+ Built with [Godot Engine](https://godotengine.org/)
+ ![Language](https://img.shields.io/badge/Language-GDScript-informational)
+ Developed by [champSTK]
 
 
